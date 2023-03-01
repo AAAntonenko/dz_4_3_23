@@ -1,7 +1,7 @@
 ﻿Console.Clear();
-Console.WriteLine("введите число а");
+Console.WriteLine("введите число m");
 int m = int.Parse(Console.ReadLine());
-Console.WriteLine("введите число а");
+Console.WriteLine("введите число n");
 int n = int.Parse(Console.ReadLine());
 Console.WriteLine();
 Console.WriteLine($"Сумма элементов = {FindSum(m,n)}");
